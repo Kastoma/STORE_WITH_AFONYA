@@ -1,0 +1,103 @@
+{
+    "brands": [
+      { "name": "Apple"
+        ,"series":[ {
+        
+          "name": "IPHONE SERIES",
+          "models": [
+            "iPhone 15 Pro Max (6.7\")",
+            "iPhone 15 Pro (6.1\")",
+            "iPhone 15 Plus (6.7\")",
+            "iPhone 15 (6.1\")",
+            "iPhone 14 Pro Max (6.7\")",
+            "iPhone 14 Pro (6.1\")",
+            "iPhone 14 Plus (6.7\")",
+            "iPhone 14 (6.1\")",
+            "iPhone 13 Pro Max (6.7\")",
+            "iPhone 13 Pro (6.1\")",
+            "iPhone 13 mini (5.4\")",
+            "iPhone 13 (6.1\")",
+            "iPhone 12 mini (5.4\")",
+            "iPhone 12 Pro Max (6.7\")",
+            "iPhone 12 Pro (6.1\")",
+            "iPhone 12 (6.1\")",
+            "iPhone SE (2020)",
+            "iPhone 11 Pro Max (6.5\")",
+            "iPhone 11 Pro (5.8\")",
+            "iPhone 11 (6.1\")",
+            "iPhone XR (6.1\")",
+            "iPhone XS Max (6.5\")",
+            "iPhone XS (5.8\")",
+            "iPhone X (5.8\")",
+            "iPhone 7 plus / 8 plus (5.5\")",
+            "iPhone 7 / 8 (4.7\")",
+            "iPhone 6/6s plus (5.5\")",
+            "iPhone 6/6s (4.7\")",
+            "iPhone 5/5S/SE"
+          ]
+        },
+        
+    
+    {
+      "name": "MACBOOK SERIES",
+      "series": [
+        {
+          "name": "MacBook Air",
+          "models": [
+            "MacBook Air 15.3'' (2023)",
+            "MacBook Air 15'' (2023)",
+            "MacBook Air 13.6'' (2022)",
+            "MacBook Air 13.3'' (2020)",
+            "MacBook Air 13.3'' (2018/2019)",
+            "MacBook Air 13.3'' (2017)"
+          ]
+        },
+        {
+          "name": "MacBook Pro",
+          "models": [
+            "MacBook Pro 16.2\" (2021)",
+            "MacBook Pro 16\" (2019)",
+            "MacBook Pro 14.2\" (2021)",
+            "MacBook Pro 13.3\" (2020)",
+            "MacBook Pro touch bar 15 (2016/18)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APPLE IPAD SERIES",
+      "series": [
+        {
+          "name": "iPad Pro",
+          "models": [
+            "iPad Pro 12.9\" (2020)",
+            "iPad Pro 12.9\" (2018)",
+            "iPad Pro 12,9\"",
+            "iPad Pro 11\" (2022)",
+            "iPad Pro 11\" (2020)",
+            "iPad Pro 11\" (2018)",
+            "iPad Pro 10.5\" (2017)"
+          ]
+        }
+      ]
+    }]
+    },
+      { "name": "Samsung" },
+      { "name": "Xiaomi" },
+      { "name": "ZTE" },
+      { "name": "TECNO" },
+      { "name": "Oppo" },
+      { "name": "Другие" },
+      { "name": "Realme" },
+      { "name": "Vivo" },
+      { "name": "OnePlus" },
+      { "name": "Huawei / Honor" },
+      { "name": "Google" },
+      { "name": "Motorola" },
+      { "name": "Nokia" },
+      { "name": "Lenovo" },
+      { "name": "Blackview" },
+      { "name": "Umidigi" },
+      { "name": "Infinix" }
+    ]
+  } 
